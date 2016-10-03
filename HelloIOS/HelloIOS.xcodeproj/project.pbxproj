@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					9D3ADE5F1DA309020075F823 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = FLAQUC4AS6;
 						ProvisioningStyle = Automatic;
 					};
 					9D3ADE731DA309020075F823 = {
@@ -412,7 +413,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FLAQUC4AS6;
 				INFOPLIST_FILE = HelloIOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = alw34.uw.edu.HelloIOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -424,7 +427,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = FLAQUC4AS6;
 				INFOPLIST_FILE = HelloIOS/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = alw34.uw.edu.HelloIOS;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -505,6 +510,7 @@
 				9D3ADE8A1DA309020075F823 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D3ADE8B1DA309020075F823 /* Build configuration list for PBXNativeTarget "HelloIOSTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +519,7 @@
 				9D3ADE8D1DA309020075F823 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9D3ADE8E1DA309020075F823 /* Build configuration list for PBXNativeTarget "HelloIOSUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +528,7 @@
 				9D3ADE901DA309020075F823 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
