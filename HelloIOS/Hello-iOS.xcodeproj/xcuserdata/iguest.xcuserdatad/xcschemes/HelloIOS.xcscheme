@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D3ADE5F1DA309020075F823"
-               BuildableName = "HelloIOS.app"
-               BlueprintName = "HelloIOS"
-               ReferencedContainer = "container:HelloIOS.xcodeproj">
+               BuildableName = "Hello-iOS.app"
+               BlueprintName = "Hello-iOS"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D3ADE731DA309020075F823"
-               BuildableName = "HelloIOSTests.xctest"
-               BlueprintName = "HelloIOSTests"
-               ReferencedContainer = "container:HelloIOS.xcodeproj">
+               BuildableName = "Hello-iOSTests.xctest"
+               BlueprintName = "Hello-iOSTests"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9D3ADE7E1DA309020075F823"
-               BuildableName = "HelloIOSUITests.xctest"
-               BlueprintName = "HelloIOSUITests"
-               ReferencedContainer = "container:HelloIOS.xcodeproj">
+               BuildableName = "Hello-iOSUITests.xctest"
+               BlueprintName = "Hello-iOSUITests"
+               ReferencedContainer = "container:Hello-iOS.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D3ADE5F1DA309020075F823"
-            BuildableName = "HelloIOS.app"
-            BlueprintName = "HelloIOS"
-            ReferencedContainer = "container:HelloIOS.xcodeproj">
+            BuildableName = "Hello-iOS.app"
+            BlueprintName = "Hello-iOS"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D3ADE5F1DA309020075F823"
-            BuildableName = "HelloIOS.app"
-            BlueprintName = "HelloIOS"
-            ReferencedContainer = "container:HelloIOS.xcodeproj">
+            BuildableName = "Hello-iOS.app"
+            BlueprintName = "Hello-iOS"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9D3ADE5F1DA309020075F823"
-            BuildableName = "HelloIOS.app"
-            BlueprintName = "HelloIOS"
-            ReferencedContainer = "container:HelloIOS.xcodeproj">
+            BuildableName = "Hello-iOS.app"
+            BlueprintName = "Hello-iOS"
+            ReferencedContainer = "container:Hello-iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
